@@ -1,0 +1,33 @@
+body{
+  background:url(header.jpg) no-repeat center center fixed;
+  -webkit-background-size:cover;
+  -o-background-size:cover;
+  background-size: cover;  
+}
+
+h1{
+  font-size:3rem;
+  color:#fff !important;
+}
+hr{
+  border-color:#f05f44 transparent;
+  border-width:3px !important;
+  max-width: 65px !important;
+  
+}
+.btn-xl{
+  padding:1rem 2rem;
+}
+
+.btn{
+  font-weight:bold;
+  text-transform: uppercase;
+  border-radius:300px !important;
+  
+}
+
+.btn-primary:hover{
+  background-color:orange;
+  border-color:transparent;
+}
+
